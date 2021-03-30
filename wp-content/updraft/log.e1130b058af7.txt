@@ -1,0 +1,438 @@
+0000.001 (0) Opened log file at time: Tue, 30 Mar 2021 14:05:41 +0000 on http://gourmandim.localhost
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.50 WP: 5.7 PHP: 7.4.15 (apache2handler, Windows NT LAPTOP-S31660O1 10.0 build 19041 (Windows 10) AMD64) MySQL: 5.7.24 WPLANG: fr_FR Server: Apache/2.4.35 (Win64) OpenSSL/1.1.1i PHP/7.4.15 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 66.6M | 6M) multisite: N openssl: OpenSSL 1.1.1i  8 Dec 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.006 (0) Free space on disk containing Updraft's temporary directory: 345455.5 MB
+0000.009 (0) Tasks: Backup files: 1 (schedule: every2hours) Backup DB:  (schedule: every2hours)
+0000.010 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.023 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1617020463, seconds_ago=92678)
+0000.027 (0) Set semaphore last lock (fd) time to 2021-03-30 14:05:41
+0000.028 (0) Semaphore lock (fd) complete
+0000.031 (0) Backup run: resumption=0, nonce=e1130b058af7, file_nonce=e1130b058af7 begun at=1617113141 (0s ago), job type=backup
+0000.033 (0) Scheduling a resumption (1) after 300 seconds (1617113441) in case this run gets aborted
+0000.064 (0) Checking if we have a zip executable available
+0000.068 (0) Creation of backups of directories: beginning
+0000.075 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.742 (0) Total entities for the zip file: 983 directories, 5598 files (0 skipped as non-modified), 76.6 MB
+0001.777 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.805 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.831 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.856 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.881 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.908 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.933 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.958 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.983 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0002.008 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0002.010 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.7 MB, 5598 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0013.181 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 1100 files added (on-disk size: 6999.4 KB)
+0013.201 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 1200 files added (on-disk size: 6999.4 KB)
+0013.221 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 1300 files added (on-disk size: 6999.4 KB)
+0013.242 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 1400 files added (on-disk size: 6999.4 KB)
+0013.261 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 1500 files added (on-disk size: 6999.4 KB)
+0013.281 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 1600 files added (on-disk size: 6999.4 KB)
+0013.300 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 1700 files added (on-disk size: 6999.4 KB)
+0013.320 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 1800 files added (on-disk size: 6999.4 KB)
+0013.341 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 1900 files added (on-disk size: 6999.4 KB)
+0013.361 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 2000 files added (on-disk size: 6999.4 KB)
+0013.363 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.7 MB, 5598 files batched, 1001 (2002) added so far); re-opening (prior size: 6999.4 KB)
+0024.270 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 2100 files added (on-disk size: 10385.1 KB)
+0024.292 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 2200 files added (on-disk size: 10385.1 KB)
+0024.312 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 2300 files added (on-disk size: 10385.1 KB)
+0024.334 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 2400 files added (on-disk size: 10385.1 KB)
+0024.355 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 2500 files added (on-disk size: 10385.1 KB)
+0024.376 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 2600 files added (on-disk size: 10385.1 KB)
+0024.397 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 2700 files added (on-disk size: 10385.1 KB)
+0024.418 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 2800 files added (on-disk size: 10385.1 KB)
+0024.440 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 2900 files added (on-disk size: 10385.1 KB)
+0024.461 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 3000 files added (on-disk size: 10385.1 KB)
+0024.463 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.1 MB, 5598 files batched, 1001 (3003) added so far); re-opening (prior size: 10385.1 KB)
+0032.640 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 3100 files added (on-disk size: 13774.4 KB)
+0032.662 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 3200 files added (on-disk size: 13774.4 KB)
+0032.683 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 3300 files added (on-disk size: 13774.4 KB)
+0032.705 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 3400 files added (on-disk size: 13774.4 KB)
+0032.727 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 3500 files added (on-disk size: 13774.4 KB)
+0032.748 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 3600 files added (on-disk size: 13774.4 KB)
+0032.769 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 3700 files added (on-disk size: 13774.4 KB)
+0032.791 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 3800 files added (on-disk size: 13774.4 KB)
+0032.812 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 3900 files added (on-disk size: 13774.4 KB)
+0032.833 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 4000 files added (on-disk size: 13774.4 KB)
+0032.836 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.1 MB, 5598 files batched, 1001 (4004) added so far); re-opening (prior size: 13774.4 KB)
+0049.491 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 4100 files added (on-disk size: 15820.9 KB)
+0049.514 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 4200 files added (on-disk size: 15820.9 KB)
+0049.540 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 4300 files added (on-disk size: 15820.9 KB)
+0049.564 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 4400 files added (on-disk size: 15820.9 KB)
+0049.589 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 4500 files added (on-disk size: 15820.9 KB)
+0049.612 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 4600 files added (on-disk size: 15820.9 KB)
+0049.638 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 4700 files added (on-disk size: 15820.9 KB)
+0049.661 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 4800 files added (on-disk size: 15820.9 KB)
+0049.684 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 4900 files added (on-disk size: 15820.9 KB)
+0049.709 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 5000 files added (on-disk size: 15820.9 KB)
+0049.712 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18.6 MB, 5598 files batched, 1001 (5005) added so far); re-opening (prior size: 15820.9 KB)
+0058.693 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 5100 files added (on-disk size: 23501.7 KB)
+0058.715 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 5200 files added (on-disk size: 23501.7 KB)
+0058.736 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 5300 files added (on-disk size: 23501.7 KB)
+0058.757 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 5400 files added (on-disk size: 23501.7 KB)
+0058.778 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip.tmp: 5500 files added (on-disk size: 23501.7 KB)
+0063.410 (0) Created plugins zip (0) - 25900.1 KB in 63.3 s (409 KB/s) (sha1: a74acfc84acbc3b2818a5dbd02cfd717e38d70f8, sha256: 6b9800c77ef629cb615935b91b873e54c244c672647f330364cd3003f225cd02)
+0063.418 (0) Beginning creation of dump of themes (split every: 400 MB)
+0063.642 (0) Total entities for the zip file: 161 directories, 912 files (0 skipped as non-modified), 36 MB
+0063.665 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0063.688 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0063.708 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0063.729 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0063.750 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0063.761 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 912 files batched, 551 (551) added so far); re-opening (prior size: 0 KB)
+0069.581 (0) A useful amount of data was added after this amount of zip processing: 7 s (normalised: 7 s, rate: 3670.3 KB/s)
+0069.599 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-themes.zip.tmp: 600 files added (on-disk size: 7651.1 KB)
+0069.619 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-themes.zip.tmp: 700 files added (on-disk size: 7651.1 KB)
+0069.640 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-themes.zip.tmp: 800 files added (on-disk size: 7651.1 KB)
+0069.660 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-themes.zip.tmp: 900 files added (on-disk size: 7651.1 KB)
+0072.098 (0) Created themes zip (0) - 10143.1 KB in 8.7 s (1169.4 KB/s) (sha1: acbe9b329371d55a01a4b812388080ed2c8310ed, sha256: 46eb260b7c96e1d2bbb995606953ad3b5d623f4002a6a8573164e34168b587c4)
+0072.103 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0072.105 (0) Looking for candidates to backup in: C:\laragon\www\gourmandim/wp-content/uploads
+0072.107 (0) finding files: 2021: adding to list (1)
+0072.108 (0) finding files: et_temp: adding to list (2)
+0072.110 (0) finding files: wc-logs: adding to list (3)
+0072.111 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (4)
+0072.112 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (5)
+0072.113 (0) finding files: woocommerce-placeholder-1080x1080.png: adding to list (6)
+0072.114 (0) finding files: woocommerce-placeholder-1080x675.png: adding to list (7)
+0072.115 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (8)
+0072.116 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (9)
+0072.117 (0) finding files: woocommerce-placeholder-400x250.png: adding to list (10)
+0072.118 (0) finding files: woocommerce-placeholder-400x284.png: adding to list (11)
+0072.119 (0) finding files: woocommerce-placeholder-400x516.png: adding to list (12)
+0072.120 (0) finding files: woocommerce-placeholder-480x480.png: adding to list (13)
+0072.121 (0) finding files: woocommerce-placeholder-510x382.png: adding to list (14)
+0072.122 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (15)
+0072.123 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (16)
+0072.124 (0) finding files: woocommerce-placeholder-980x980.png: adding to list (17)
+0072.125 (0) finding files: woocommerce-placeholder.png: adding to list (18)
+0072.126 (0) finding files: woocommerce_uploads: adding to list (19)
+0072.127 (0) finding files: wpo_wcpdf_4549d27622a3742741f0b76c8188f522: adding to list (20)
+0072.127 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0072.247 (0) Total entities for the zip file: 9 directories, 521 files (0 skipped as non-modified), 37.6 MB
+0072.268 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0072.288 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0072.307 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0072.326 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0072.336 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.6 MB, 521 files batched, 444 (444) added so far); re-opening (prior size: 0 KB)
+0072.651 (0) A useful amount of data was added after this amount of zip processing: 1.1 s (normalised: 1.1 s, rate: 24108 KB/s)
+0072.653 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.0856869220734, normalised_time=1.0618881336484, max_time=72.651247024536, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0072.668 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-uploads.zip.tmp: 500 files added (on-disk size: 25836.7 KB)
+0074.749 (0) Created uploads zip (0) - 31410.2 KB in 2.6 s (11998.5 KB/s) (sha1: 5e6a7b5c3b38281c877c3a505ff772638a81ca77, sha256: a4526ff6f6b56a13a3d9960ebd02cd24ff7920e7caf68bd3971a21a80d680301)
+0074.755 (0) Beginning backup of other directories found in the content directory (index: 0)
+0074.758 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0074.760 (0) Looking for candidates to backup in: C:\laragon\www\gourmandim/wp-content
+0074.762 (0) finding files: debug.log: skipping: excluded by options
+0074.763 (0) finding files: et-cache: adding to list (1)
+0074.765 (0) finding files: index.php: adding to list (2)
+0074.767 (0) finding files: languages: adding to list (3)
+0074.768 (0) finding files: plugins: skipping: this is the plugins directory
+0074.770 (0) finding files: themes: skipping: this is the themes directory
+0074.772 (0) finding files: updraft: skipping: this is the updraft directory
+0074.774 (0) finding files: upgrade: skipping: excluded by options
+0074.775 (0) finding files: uploads: skipping: this is the uploads directory
+0074.861 (0) Total entities for the zip file: 11 directories, 384 files (0 skipped as non-modified), 29.7 MB
+0074.885 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0074.906 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0074.927 (0) Zip: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0077.698 (0) Created others zip (0) - 6645.9 KB in 2.9 s (2277.2 KB/s) (sha1: eb81a5f83c3ca80b68c420eb25a838a00593f6c0, sha256: e5bf8e0684b887dcbc8bde848de292b4217af9255a275e4dfaf58759f897afeb)
+0077.707 (0) Saving backup status to database (elements: 8)
+0077.714 (0) Beginning creation of database dump (WordPress DB)
+0077.716 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0077.721 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysqldump.exe
+0077.876 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `grm_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!50503 SET character_set_client = utf8mb4 */; (truncated - 1253 bytes total)
+0077.883 (0) Binary mysqldump: error (code: 2)
+0078.059 (0) Table grm_options: Total expected rows (approximate): 496
+0078.096 (0) Table grm_options: Rows added in this batch (next record: 1495): 499 (uncompressed bytes in this segment=753270) in 0.04 seconds
+0078.103 (0) Table grm_options: finishing file(s) (2, 146.4 KB)
+0078.109 (0) Table grm_users: Total expected rows (approximate): 2
+0078.112 (0) Table grm_users: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1631) in 0.00 seconds
+0078.120 (0) Table grm_users: finishing file(s) (2, 0.7 KB)
+0078.125 (0) Table grm_usermeta: Total expected rows (approximate): 54
+0078.128 (0) Table grm_usermeta: Rows added in this batch (next record: 64): 54 (uncompressed bytes in this segment=6683) in 0.00 seconds
+0078.136 (0) Table grm_usermeta: finishing file(s) (2, 2.3 KB)
+0078.141 (0) Table grm_actionscheduler_actions: Total expected rows (approximate): 2
+0078.144 (0) Table grm_actionscheduler_actions: Rows added in this batch (next record: 11): 2 (uncompressed bytes in this segment=2217) in 0.00 seconds
+0078.158 (0) Table grm_actionscheduler_actions: finishing file(s) (2, 0.7 KB)
+0078.165 (0) Table grm_actionscheduler_claims: Total expected rows (approximate): 0
+0078.168 (0) Table grm_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=638) in 0.00 seconds
+0078.177 (0) Table grm_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0078.190 (0) Table grm_actionscheduler_groups: Total expected rows (approximate): 2
+0078.193 (0) Table grm_actionscheduler_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=719) in 0.00 seconds
+0078.201 (0) Table grm_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0078.215 (0) Table grm_actionscheduler_logs: Total expected rows (approximate): 6
+0078.218 (0) Table grm_actionscheduler_logs: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=1367) in 0.00 seconds
+0078.226 (0) Table grm_actionscheduler_logs: finishing file(s) (2, 0.6 KB)
+0078.238 (0) Table grm_commentmeta: Total expected rows (approximate): 0
+0078.241 (0) Table grm_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=691) in 0.00 seconds
+0078.249 (0) Table grm_commentmeta: finishing file(s) (2, 0.4 KB)
+0078.260 (0) Table grm_comments: Total expected rows (approximate): 0
+0078.262 (0) Table grm_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2276) in 0.00 seconds
+0078.269 (0) Table grm_comments: finishing file(s) (2, 0.8 KB)
+0078.280 (0) Table grm_links: Total expected rows (approximate): 0
+0078.283 (0) Table grm_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1316) in 0.00 seconds
+0078.290 (0) Table grm_links: finishing file(s) (2, 0.5 KB)
+0078.295 (0) Table grm_postmeta: Total expected rows (approximate): 299
+0078.300 (0) Table grm_postmeta: Rows added in this batch (next record: 315): 299 (uncompressed bytes in this segment=107543) in 0.00 seconds
+0078.307 (0) Table grm_postmeta: finishing file(s) (2, 10.1 KB)
+0078.311 (0) Table grm_posts: Total expected rows (approximate): 98
+0078.323 (0) Table grm_posts: Rows added in this batch (next record: 134): 98 (uncompressed bytes in this segment=208337) in 0.01 seconds
+0078.331 (0) Table grm_posts: finishing file(s) (2, 14.2 KB)
+0078.337 (0) Table grm_term_relationships: Total expected rows (approximate): 17
+0078.343 (0) Table grm_term_relationships: Rows added in this batch (next record: 100000): 17 (uncompressed bytes in this segment=937) in 0.00 seconds
+0078.350 (0) Table grm_term_relationships: finishing file(s) (2, 0.4 KB)
+0078.355 (0) Table grm_term_taxonomy: Total expected rows (approximate): 21
+0078.358 (0) Table grm_term_taxonomy: Rows added in this batch (next record: 21): 21 (uncompressed bytes in this segment=1692) in 0.00 seconds
+0078.365 (0) Table grm_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0078.369 (0) Table grm_termmeta: Total expected rows (approximate): 0
+0078.372 (0) Table grm_termmeta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=759) in 0.00 seconds
+0078.377 (0) Table grm_termmeta: finishing file(s) (2, 0.4 KB)
+0078.382 (0) Table grm_terms: Total expected rows (approximate): 21
+0078.384 (0) Table grm_terms: Rows added in this batch (next record: 21): 21 (uncompressed bytes in this segment=1449) in 0.00 seconds
+0078.390 (0) Table grm_terms: finishing file(s) (2, 0.6 KB)
+0078.395 (0) Table grm_wc_category_lookup: Total expected rows (approximate): 1
+0078.403 (0) Table grm_wc_category_lookup: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=596) in 0.01 seconds
+0078.409 (0) Table grm_wc_category_lookup: finishing file(s) (2, 0.3 KB)
+0078.413 (0) Table grm_wc_product_meta_lookup: Total expected rows (approximate): 3
+0078.430 (0) Table grm_wc_product_meta_lookup: Rows added in this batch (next record: 27): 3 (uncompressed bytes in this segment=1677) in 0.02 seconds
+0078.438 (0) Table grm_wc_product_meta_lookup: finishing file(s) (2, 0.6 KB)
+0078.445 (0) Table grm_wc_reserved_stock: Total expected rows (approximate): 0
+0078.457 (0) Table grm_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=671) in 0.01 seconds
+0078.466 (0) Table grm_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0078.473 (0) Table grm_wc_tax_rate_classes: Total expected rows (approximate): 2
+0078.476 (0) Table grm_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=819) in 0.00 seconds
+0078.486 (0) Table grm_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0078.501 (0) Table grm_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0078.504 (0) Table grm_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=777) in 0.00 seconds
+0078.512 (0) Table grm_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0078.525 (0) Table grm_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0078.528 (0) Table grm_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=804) in 0.00 seconds
+0078.536 (0) Table grm_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0078.550 (0) Table grm_wc_admin_note_actions: Total expected rows (approximate): 22
+0078.554 (0) Table grm_wc_admin_note_actions: Rows added in this batch (next record: 347): 22 (uncompressed bytes in this segment=4388) in 0.00 seconds
+0078.562 (0) Table grm_wc_admin_note_actions: finishing file(s) (2, 1.5 KB)
+0078.575 (0) Table grm_wc_admin_notes: Total expected rows (approximate): 22
+0078.579 (0) Table grm_wc_admin_notes: Rows added in this batch (next record: 22): 22 (uncompressed bytes in this segment=10488) in 0.00 seconds
+0078.587 (0) Table grm_wc_admin_notes: finishing file(s) (2, 3.4 KB)
+0078.600 (0) Table grm_wc_customer_lookup: Total expected rows (approximate): 0
+0078.602 (0) Table grm_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1272) in 0.00 seconds
+0078.609 (0) Table grm_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0078.625 (0) Table grm_wc_download_log: Total expected rows (approximate): 0
+0078.628 (0) Table grm_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=934) in 0.00 seconds
+0078.636 (0) Table grm_wc_download_log: finishing file(s) (2, 0.5 KB)
+0078.641 (0) Table grm_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0078.651 (0) Table grm_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=723) in 0.01 seconds
+0078.661 (0) Table grm_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0078.669 (0) Table grm_wc_order_product_lookup: Total expected rows (approximate): 0
+0078.679 (0) Table grm_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1233) in 0.01 seconds
+0078.687 (0) Table grm_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0078.692 (0) Table grm_wc_order_stats: Total expected rows (approximate): 0
+0078.702 (0) Table grm_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1128) in 0.01 seconds
+0078.710 (0) Table grm_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0078.715 (0) Table grm_wc_order_tax_lookup: Total expected rows (approximate): 0
+0078.723 (0) Table grm_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=805) in 0.01 seconds
+0078.732 (0) Table grm_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0078.743 (0) Table grm_wc_webhooks: Total expected rows (approximate): 0
+0078.747 (0) Table grm_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1236) in 0.00 seconds
+0078.754 (0) Table grm_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0078.769 (0) Table grm_woocommerce_api_keys: Total expected rows (approximate): 0
+0078.772 (0) Table grm_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1052) in 0.00 seconds
+0078.780 (0) Table grm_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0078.796 (0) Table grm_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0078.799 (0) Table grm_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=967) in 0.00 seconds
+0078.807 (0) Table grm_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0078.820 (0) Table grm_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0078.823 (0) Table grm_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1544) in 0.00 seconds
+0078.831 (0) Table grm_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0078.847 (0) Table grm_woocommerce_log: Total expected rows (approximate): 0
+0078.850 (0) Table grm_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=728) in 0.00 seconds
+0078.859 (0) Table grm_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0078.873 (0) Table grm_woocommerce_order_items: Total expected rows (approximate): 0
+0078.876 (0) Table grm_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=745) in 0.00 seconds
+0078.884 (0) Table grm_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0078.895 (0) Table grm_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0078.898 (0) Table grm_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=847) in 0.00 seconds
+0078.906 (0) Table grm_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0078.918 (0) Table grm_woocommerce_sessions: Total expected rows (approximate): 2
+0078.921 (0) Table grm_woocommerce_sessions: Rows added in this batch (next record: 30): 2 (uncompressed bytes in this segment=6253) in 0.00 seconds
+0078.930 (0) Table grm_woocommerce_sessions: finishing file(s) (2, 1.4 KB)
+0078.941 (0) Table grm_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0078.945 (0) Table grm_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=880) in 0.00 seconds
+0078.954 (0) Table grm_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0078.968 (0) Table grm_woocommerce_shipping_zone_methods: Total expected rows (approximate): 0
+0078.971 (0) Table grm_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=781) in 0.00 seconds
+0078.979 (0) Table grm_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0078.993 (0) Table grm_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0078.996 (0) Table grm_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=639) in 0.00 seconds
+0079.004 (0) Table grm_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0079.021 (0) Table grm_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0079.024 (0) Table grm_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=854) in 0.00 seconds
+0079.033 (0) Table grm_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0079.050 (0) Table grm_woocommerce_tax_rates: Total expected rows (approximate): 0
+0079.053 (0) Table grm_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1307) in 0.00 seconds
+0079.061 (0) Table grm_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0079.075 (0) Table grm_yith_wapo_groups: Total expected rows (approximate): 0
+0079.079 (0) Table grm_yith_wapo_groups: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1142) in 0.00 seconds
+0079.086 (0) Table grm_yith_wapo_groups: finishing file(s) (2, 0.5 KB)
+0079.098 (0) Table grm_yith_wapo_types: Total expected rows (approximate): 0
+0079.101 (0) Table grm_yith_wapo_types: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=3069) in 0.00 seconds
+0079.108 (0) Table grm_yith_wapo_types: finishing file(s) (2, 1 KB)
+0079.123 (0) Table grm_yith_wccl_meta: Total expected rows (approximate): 0
+0079.126 (0) Table grm_yith_wccl_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=615) in 0.00 seconds
+0079.135 (0) Table grm_yith_wccl_meta: finishing file(s) (2, 0.4 KB)
+0079.138 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_options.table.tmpr1496.gz (1/46): adding to final database dump
+0079.159 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_options.table.gz (2/46): adding to final database dump
+0079.161 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_users.table.tmpr3.gz (3/46): adding to final database dump
+0079.163 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_users.table.gz (4/46): adding to final database dump
+0079.165 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_usermeta.table.tmpr65.gz (5/46): adding to final database dump
+0079.167 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_usermeta.table.gz (6/46): adding to final database dump
+0079.169 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_actionscheduler_actions.table.tmpr12.gz (7/46): adding to final database dump
+0079.171 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_actionscheduler_actions.table.gz (8/46): adding to final database dump
+0079.174 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_actionscheduler_claims.table.tmpr0.gz (9/46): adding to final database dump
+0079.176 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_actionscheduler_claims.table.gz (10/46): adding to final database dump
+0079.178 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_actionscheduler_groups.table.tmpr3.gz (11/46): adding to final database dump
+0079.180 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_actionscheduler_groups.table.gz (12/46): adding to final database dump
+0079.182 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_actionscheduler_logs.table.tmpr7.gz (13/46): adding to final database dump
+0079.184 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_actionscheduler_logs.table.gz (14/46): adding to final database dump
+0079.186 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_commentmeta.table.tmpr0.gz (15/46): adding to final database dump
+0079.189 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_commentmeta.table.gz (16/46): adding to final database dump
+0079.191 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_comments.table.tmpr2.gz (17/46): adding to final database dump
+0079.193 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_comments.table.gz (18/46): adding to final database dump
+0079.195 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_links.table.tmpr0.gz (19/46): adding to final database dump
+0079.198 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_links.table.gz (20/46): adding to final database dump
+0079.200 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_postmeta.table.tmpr316.gz (21/46): adding to final database dump
+0079.204 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_postmeta.table.gz (22/46): adding to final database dump
+0079.207 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_posts.table.tmpr135.gz (23/46): adding to final database dump
+0079.212 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_posts.table.gz (24/46): adding to final database dump
+0079.214 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_term_relationships.table.tmpr100001.gz (25/46): adding to final database dump
+0079.216 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_term_relationships.table.gz (26/46): adding to final database dump
+0079.217 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_term_taxonomy.table.tmpr22.gz (27/46): adding to final database dump
+0079.219 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_term_taxonomy.table.gz (28/46): adding to final database dump
+0079.222 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_termmeta.table.tmpr2.gz (29/46): adding to final database dump
+0079.224 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_termmeta.table.gz (30/46): adding to final database dump
+0079.226 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_terms.table.tmpr22.gz (31/46): adding to final database dump
+0079.228 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_terms.table.gz (32/46): adding to final database dump
+0079.230 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_category_lookup.table.tmpr1001.gz (33/46): adding to final database dump
+0079.231 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_category_lookup.table.gz (34/46): adding to final database dump
+0079.233 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_product_meta_lookup.table.tmpr28.gz (35/46): adding to final database dump
+0079.236 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_product_meta_lookup.table.gz (36/46): adding to final database dump
+0079.238 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_reserved_stock.table.tmpr1.gz (37/46): adding to final database dump
+0079.240 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_reserved_stock.table.gz (38/46): adding to final database dump
+0079.242 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_tax_rate_classes.table.tmpr3.gz (39/46): adding to final database dump
+0079.245 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_tax_rate_classes.table.gz (40/46): adding to final database dump
+0079.247 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_order_itemmeta.table.tmpr0.gz (41/46): adding to final database dump
+0079.248 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_order_itemmeta.table.gz (42/46): adding to final database dump
+0079.249 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/46): adding to final database dump
+0079.251 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_payment_tokenmeta.table.gz (44/46): adding to final database dump
+0079.252 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_admin_note_actions.table.tmpr348.gz (45/46): adding to final database dump
+0079.253 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_admin_note_actions.table.gz (46/46): adding to final database dump
+0079.255 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_admin_notes.table.tmpr23.gz (47/46): adding to final database dump
+0079.257 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_admin_notes.table.gz (48/46): adding to final database dump
+0079.258 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_customer_lookup.table.tmpr0.gz (49/46): adding to final database dump
+0079.259 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_customer_lookup.table.gz (50/46): adding to final database dump
+0079.260 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_download_log.table.tmpr0.gz (51/46): adding to final database dump
+0079.262 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_download_log.table.gz (52/46): adding to final database dump
+0079.263 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_order_coupon_lookup.table.tmpr1.gz (53/46): adding to final database dump
+0079.264 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_order_coupon_lookup.table.gz (54/46): adding to final database dump
+0079.265 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_order_product_lookup.table.tmpr0.gz (55/46): adding to final database dump
+0079.266 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_order_product_lookup.table.gz (56/46): adding to final database dump
+0079.267 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_order_stats.table.tmpr0.gz (57/46): adding to final database dump
+0079.268 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_order_stats.table.gz (58/46): adding to final database dump
+0079.270 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_order_tax_lookup.table.tmpr1.gz (59/46): adding to final database dump
+0079.271 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_order_tax_lookup.table.gz (60/46): adding to final database dump
+0079.272 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_webhooks.table.tmpr0.gz (61/46): adding to final database dump
+0079.273 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_wc_webhooks.table.gz (62/46): adding to final database dump
+0079.274 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_api_keys.table.tmpr0.gz (63/46): adding to final database dump
+0079.275 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_api_keys.table.gz (64/46): adding to final database dump
+0079.276 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_attribute_taxonomies.table.tmpr0.gz (65/46): adding to final database dump
+0079.277 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_attribute_taxonomies.table.gz (66/46): adding to final database dump
+0079.278 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_downloadable_product_permissions.table.tmpr0.gz (67/46): adding to final database dump
+0079.280 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_downloadable_product_permissions.table.gz (68/46): adding to final database dump
+0079.281 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_log.table.tmpr0.gz (69/46): adding to final database dump
+0079.283 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_log.table.gz (70/46): adding to final database dump
+0079.284 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_order_items.table.tmpr0.gz (71/46): adding to final database dump
+0079.285 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_order_items.table.gz (72/46): adding to final database dump
+0079.286 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_payment_tokens.table.tmpr0.gz (73/46): adding to final database dump
+0079.288 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_payment_tokens.table.gz (74/46): adding to final database dump
+0079.289 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_sessions.table.tmpr31.gz (75/46): adding to final database dump
+0079.290 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_sessions.table.gz (76/46): adding to final database dump
+0079.291 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_shipping_zone_locations.table.tmpr0.gz (77/46): adding to final database dump
+0079.292 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_shipping_zone_locations.table.gz (78/46): adding to final database dump
+0079.293 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_shipping_zone_methods.table.tmpr0.gz (79/46): adding to final database dump
+0079.294 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_shipping_zone_methods.table.gz (80/46): adding to final database dump
+0079.295 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_shipping_zones.table.tmpr0.gz (81/46): adding to final database dump
+0079.296 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_shipping_zones.table.gz (82/46): adding to final database dump
+0079.297 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_tax_rate_locations.table.tmpr0.gz (83/46): adding to final database dump
+0079.298 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_tax_rate_locations.table.gz (84/46): adding to final database dump
+0079.299 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_tax_rates.table.tmpr0.gz (85/46): adding to final database dump
+0079.300 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_woocommerce_tax_rates.table.gz (86/46): adding to final database dump
+0079.301 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_yith_wapo_groups.table.tmpr2.gz (87/46): adding to final database dump
+0079.302 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_yith_wapo_groups.table.gz (88/46): adding to final database dump
+0079.303 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_yith_wapo_types.table.tmpr2.gz (89/46): adding to final database dump
+0079.305 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_yith_wapo_types.table.gz (90/46): adding to final database dump
+0079.306 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_yith_wccl_meta.table.tmpr0.gz (91/46): adding to final database dump
+0079.306 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db-table-grm_yith_wccl_meta.table.gz (92/46): adding to final database dump
+0079.343 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db.gz: finished writing out complete database file (168 KB)
+0079.361 (0) Total database tables backed up: 46 (backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db.gz, size: 188299, sha1: 39ddc55eaed140c6cfe029bb1358431ec763ffc1, sha256: a3d2f0f6ea78bd92e63e821cc4507d0f88d3f7d79cf51f82380e2ac74cbad887)
+0079.367 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0079.368 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0079.369 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0079.370 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-others.zip: others: This file has not yet been successfully uploaded: will queue
+0079.371 (0) backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db.gz: db: This file has not yet been successfully uploaded: will queue
+0079.372 (0) Saving backup history. Total backup size: 72.5 MB
+0079.375 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0079.377 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0079.378 (0) No remote despatch: user chose no remote backup service
+0079.380 (0) Recording as successfully uploaded: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-plugins.zip
+0079.382 (0) Recording as successfully uploaded: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-themes.zip
+0079.385 (0) Recording as successfully uploaded: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-uploads.zip
+0079.388 (0) Recording as successfully uploaded: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-others.zip
+0079.390 (0) Recording as successfully uploaded: backup_2021-03-30-1605_Gourmand039Im_e1130b058af7-db.gz
+0079.393 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=6, retain_db=6
+0079.394 (0) Number of backup sets in history: 7; groups (db): 1
+0079.395 (0) Examining (for databases) backup set with group_id=0, nonce=e1130b058af7, datestamp=1617113141 (Mar 30 2021 14:05:41)
+0079.396 (0) This backup set is the backup set just made, so will not be deleted.
+0079.396 (0) Examining (for databases) backup set with group_id=0, nonce=5fb0d70e6d04, datestamp=1617020463 (Mar 29 2021 12:21:03)
+0079.396 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0079.397 (0) Examining (for databases) backup set with group_id=0, nonce=4d5f6924453c, datestamp=1617016624 (Mar 29 2021 11:17:04)
+0079.397 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0079.397 (0) Examining (for databases) backup set with group_id=0, nonce=a3a9511fe429, datestamp=1617009215 (Mar 29 2021 09:13:35)
+0079.397 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0079.397 (0) Examining (for databases) backup set with group_id=0, nonce=47546c3e7437, datestamp=1616958305 (Mar 28 2021 19:05:05)
+0079.397 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0079.397 (0) Examining (for databases) backup set with group_id=0, nonce=b3cbbe15353f, datestamp=1616933939 (Mar 28 2021 12:18:59)
+0079.397 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0079.397 (0) Examining (for databases) backup set with group_id=0, nonce=e06572537adb, datestamp=1616851179 (Mar 27 2021 13:19:39)
+0079.397 (0) This backup set (1616851179) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0079.397 (0) Number of backup sets in history: 7; groups (files): 1
+0079.398 (0) Examining (for files) backup set with nonce=e1130b058af7, datestamp=1617113141 (Mar 30 2021 14:05:41)
+0079.398 (0) This backup set is the backup set just made, so will not be deleted.
+0079.399 (0) This backup set is the backup set just made, so will not be deleted.
+0079.399 (0) This backup set is the backup set just made, so will not be deleted.
+0079.399 (0) This backup set is the backup set just made, so will not be deleted.
+0079.399 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0079.400 (0) Examining (for files) backup set with nonce=5fb0d70e6d04, datestamp=1617020463 (Mar 29 2021 12:21:03)
+0079.400 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0079.400 (0) Examining (for files) backup set with nonce=4d5f6924453c, datestamp=1617016624 (Mar 29 2021 11:17:04)
+0079.400 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0079.400 (0) Examining (for files) backup set with nonce=a3a9511fe429, datestamp=1617009215 (Mar 29 2021 09:13:35)
+0079.400 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0079.400 (0) Examining (for files) backup set with nonce=47546c3e7437, datestamp=1616958305 (Mar 28 2021 19:05:05)
+0079.401 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0079.401 (0) Examining (for files) backup set with nonce=b3cbbe15353f, datestamp=1616933939 (Mar 28 2021 12:18:59)
+0079.401 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0079.401 (0) Examining (for files) backup set with nonce=e06572537adb, datestamp=1616851179 (Mar 27 2021 13:19:39)
+0079.401 (0) This backup set (1616851179) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0079.401 (0) This backup set (1616851179) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0079.401 (0) This backup set (1616851179) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0079.401 (0) This backup set (1616851179) was an 'Always Keep' backup, so it will not be pruned. Skipping.
+0079.401 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0079.401 (0) Retain: saving new backup history (sets now: 7) and finishing retain operation
+0079.403 (0) Resume backup (e1130b058af7, 0): finish run
+0079.406 (0) Decremented the semaphore (fd) by 1
+0079.407 (0) Semaphore (fd) unlocked
+0079.408 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0079.411 (0) The backup apparently succeeded and is now complete
+0079.412 (0) No email will/can be sent - the user has not configured an email address.
+0079.412 (0) La sauvegarde a apparemment réussi et est maintenant terminée

@@ -1,0 +1,6 @@
+0000.001 (0) Opened log file at time: Tue, 30 Mar 2021 18:22:23 +0000 on https://gourmandim.localhost
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.50 WP: 5.7 PHP: 7.4.15 (apache2handler, Windows NT LAPTOP-S31660O1 10.0 build 19041 (Windows 10) AMD64) MySQL: 5.7.24 WPLANG: fr_FR Server: Apache/2.4.35 (Win64) OpenSSL/1.1.1i PHP/7.4.15 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 66.6M | 6M) multisite: N openssl: OpenSSL 1.1.1i  8 Dec 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 347164.8 MB
+0000.008 (0) Tasks: Backup files: 1 (schedule: every2hours) Backup DB:  (schedule: every2hours)
+0000.009 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.012 (0) Scheduled backup aborted - another backup of this type was apparently invoked by the WordPress scheduler only 501 seconds ago - the WordPress scheduler invoking events multiple times usually indicates a very overloaded server (or other plugins that mis-use the scheduler)
