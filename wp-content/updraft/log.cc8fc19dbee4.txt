@@ -1,0 +1,6 @@
+0000.016 (0) Opened log file at time: Sun, 28 Mar 2021 12:21:10 +0000 on https://www.gourmandim-sans-gluten.mouyim-gibassier.xyz
+0000.019 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.50 WP: 5.7 PHP: 7.3.27 (cgi-fcgi, Linux webm134.cluster030.gra.hosting.ovh.net 4.14.218-ovh-vps-grsec-zfs-classid #1 SMP Mon Feb 1 17:25:57 CET 2021 x86_64) MySQL: 5.6.50-log WPLANG: fr_FR Server: Apache safe_mode: 0 max_execution_time: 165 memory_limit: 512M (used: 53.6M | 56M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.020 (0) Free space on disk containing Updraft's temporary directory: Unknown
+0000.076 (0) Tasks: Backup files: 1 (schedule: every2hours) Backup DB:  (schedule: every2hours)
+0000.078 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.080 (0) Scheduled backup aborted - another backup of this type was apparently invoked by the WordPress scheduler only 132 seconds ago - the WordPress scheduler invoking events multiple times usually indicates a very overloaded server (or other plugins that mis-use the scheduler)

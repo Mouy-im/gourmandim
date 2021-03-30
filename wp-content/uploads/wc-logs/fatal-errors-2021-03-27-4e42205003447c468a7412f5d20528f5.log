@@ -1,0 +1,18 @@
+2021-03-27T14:20:25+00:00 CRITICAL syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' dans /home/mouyimv/gourmandim/wp-content/themes/Divi-Child-Theme/woocommerce/content-product.php à la ligne 68
+
+2021-03-27T14:23:25+00:00 CRITICAL syntax error, unexpected 'confirm' (T_STRING), expecting ',' or ';' dans /home/mouyimv/gourmandim/wp-content/themes/Divi-Child-Theme/woocommerce/content-product.php à la ligne 68
+
+2021-03-27T14:23:55+00:00 CRITICAL syntax error, unexpected 'test' (T_STRING), expecting ',' or ';' dans /home/mouyimv/gourmandim/wp-content/themes/Divi-Child-Theme/woocommerce/content-product.php à la ligne 68
+
+2021-03-27T14:24:28+00:00 CRITICAL syntax error, unexpected 'confirm' (T_STRING), expecting ',' or ';' dans /home/mouyimv/gourmandim/wp-content/themes/Divi-Child-Theme/woocommerce/content-product.php à la ligne 68
+
+2021-03-27T14:25:57+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' dans /home/mouyimv/gourmandim/wp-content/themes/Divi-Child-Theme/woocommerce/content-product.php à la ligne 68
+
+2021-03-27T14:28:27+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' dans /home/mouyimv/gourmandim/wp-content/themes/Divi-Child-Theme/woocommerce/content-product.php à la ligne 71
+
+2021-03-27T14:28:40+00:00 CRITICAL syntax error, unexpected 'au' (T_STRING), expecting ',' or ';' dans /home/mouyimv/gourmandim/wp-content/themes/Divi-Child-Theme/woocommerce/content-product.php à la ligne 71
+
+2021-03-27T14:29:06+00:00 CRITICAL syntax error, unexpected 'au' (T_STRING), expecting ',' or ';' dans /home/mouyimv/gourmandim/wp-content/themes/Divi-Child-Theme/woocommerce/content-product.php à la ligne 72
+
+2021-03-27T14:29:20+00:00 CRITICAL syntax error, unexpected ''>Ajouter au panier</a>";' (T_ENCAPSED_AND_WHITESPACE) dans /home/mouyimv/gourmandim/wp-content/themes/Divi-Child-Theme/woocommerce/content-product.php à la ligne 72
+
