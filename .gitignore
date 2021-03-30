@@ -1,0 +1,5 @@
+*.data
+*.log
+*.htaccess
+wp-content/uploads/
+wp-content/et-cache/
