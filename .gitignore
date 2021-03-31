@@ -12,17 +12,12 @@
 # http://kernel.org/pub/software/scm/git/docs/gitignore.html
 * .log
 * .txt
-# Ignore everything in the root except the "wp-content" directory.
-/*
-!.gitignore
-!wp-content/themes/
-#test
-
+/wp-admin/
+/wp-includes/
 # Ignore everything in the "wp-content" directory, except the "plugins"
 # and "themes" directories.
-/wp-content/et-cache/*
-/wp-content/updraft/*
-/wp-content/uploads/*
-/wp-content/themes/*
-!/wp-content/themes/Divi-Child-Theme/
+/wp-content/et-cache/
+/wp-content/updraft/
+/wp-content/uploads/
+#test
 
