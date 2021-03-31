@@ -12,41 +12,63 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
 .products.columns-4 {
-	display: flex;
+    display: flex;
     justify-content: space-between;
 }
-.products.columns-4 li{
-	margin-right:0px!important;
 
+.products.columns-4 li {
+    margin-right: 0px!important;
 }
+
+
 /*Aligner quantité avec ajouter au panier*/
-li.product form.cart .quantity{
-	display:inline-block;
+
+li.product form.cart .quantity {
+    display: inline-block;
 }
+
 .woocommerce-page div.product form.cart {
     margin: 0px 0px 0px;
 }
+
 li.product .woocommerce-Price-amount.amount {
     position: absolute;
-    background-color: rgba(224,175,160,0.8);
-    width:100px;
-	height:100px;
-	padding-top:35px;
+    background-color: rgba(224, 175, 160, 0.8);
+    width: 100px;
+    height: 100px;
+    padding-top: 35px;
     border-radius: 100px;
     right: -40px;
     top: -40px;
     box-shadow: 1px 2px 10px 1px grey;
-	text-align:center;
-	font-size:18px;
-	font-weight:bold;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
 }
-li.product .et_shop_image{
-	margin-bottom:15px;
+
+li.product .et_shop_image {
+    margin-bottom: 15px;
 }
+
 li.product .woocommerce-loop-product__title {
-    font-size:18px!important;
-	font-weight:bold;
+    font-size: 18px!important;
+    font-weight: bold;
 }
-li.product .button{
-	margin-top:0px!important;
+
+li.product .button {
+    margin-top: 0px!important;
+}
+
+
+/*formulaire "affiner la recherche" */
+
+.price_slider_amount input {
+    display: inline-block!important;
+}
+
+#search_form {
+    padding: 30px 20px;
+    box-shadow: 1px 1px 10px 1px lightgrey;
+    border-radius: 15px;
+    margin: 20px 0px;
 }
