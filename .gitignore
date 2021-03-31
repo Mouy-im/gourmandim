@@ -18,6 +18,9 @@
 
 # Ignore everything in the "wp-content" directory, except the "plugins"
 # and "themes" directories.
+/wp-content/et-cache/*
+/wp-content/updraft/*
+/wp-content/uploads/*
 /wp-content/*
 !/wp-content/themes/
 /wp-content/themes/*
