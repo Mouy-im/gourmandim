@@ -14,15 +14,13 @@
 # Ignore everything in the root except the "wp-content" directory.
 /*
 !.gitignore
-!wp-content/
+!wp-content/themes/
 
 # Ignore everything in the "wp-content" directory, except the "plugins"
 # and "themes" directories.
 /wp-content/et-cache/*
 /wp-content/updraft/*
 /wp-content/uploads/*
-/wp-content/*
-!/wp-content/themes/
 /wp-content/themes/*
 !/wp-content/themes/Divi-Child-Theme/
 
