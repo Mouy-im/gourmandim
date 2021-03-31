@@ -31,3 +31,33 @@ function et_modify_shop_page_columns_num2( $columns_num ) {
 
 	return $columns_num;
 }
+
+//zone widget perso
+add_action( 'widgets_init', 'zone_filtre' );
+
+function zone_filtre() {
+
+    register_sidebar( array(
+        'name'          => 'affiner_recherche',
+        'id'            => 'id_search_form',
+        'before_widget' => '<div>',
+        'after_widget'  => '</div>',
+        'before_title'  => '<h2>',
+        'after_title'   => '</h2>',
+        'class'         => 'class_search_form',
+    ) );
+}
+
+//utiliser fontawesome
+add_action( 'wp_enqueue_scripts', 'prefix_enqueue_awesome' );
+/**
+ * Register and load font awesome CSS files using a CDN.
+ */
+function prefix_enqueue_awesome() {
+	wp_enqueue_style( 
+		'font-awesome-5', 
+		'https://use.fontawesome.com/releases/v5.3.0/css/all.css', 
+		array(), 
+		'5.3.0' 
+	);
+}
