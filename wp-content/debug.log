@@ -947,3 +947,11 @@ Removing extra page resource file: C:\laragon\www\gourmandim/wp-content/et-cache
 [30-Mar-2021 18:18:27 UTC] PHP Notice:  Trying to access array offset on value of type bool in C:\laragon\www\gourmandim\wp-includes\class-wp-recovery-mode-email-service.php on line 352
 [30-Mar-2021 18:19:04 UTC] PHP Fatal error:  Cannot redeclare et_modify_shop_page_columns_num() (previously declared in C:\laragon\www\gourmandim\wp-content\themes\Divi-Child-Theme\functions.php:9) in C:\laragon\www\gourmandim\wp-content\themes\Divi\functions.php on line 7888
 [30-Mar-2021 18:19:05 UTC] PHP Fatal error:  Cannot redeclare et_modify_shop_page_columns_num() (previously declared in C:\laragon\www\gourmandim\wp-content\themes\Divi-Child-Theme\functions.php:9) in C:\laragon\www\gourmandim\wp-content\themes\Divi\functions.php on line 7888
+[30-Mar-2021 20:53:59 UTC]  .../components/init.php:350  et_core_page_resource_get():
+Removing extra page resource file: C:\laragon\www\gourmandim/wp-content/et-cache/global/et-divi-customizer-global-16171375836775.min.css
+
+[30-Mar-2021 20:53:59 UTC]  .../components/init.php:350  et_core_page_resource_get():
+Removing extra page resource file: C:\laragon\www\gourmandim/wp-content/et-cache/global/et-divi-customizer-global-16171375836775.min.css
+
+[31-Mar-2021 06:50:29 UTC] PHP Fatal error:  Out of memory (allocated 18874368) (tried to allocate 20480 bytes) in C:\laragon\www\gourmandim\wp-includes\pomo\mo.php on line 323
+[31-Mar-2021 06:50:32 UTC] PHP Notice: A feed could not be found at `https://feeds.feedburner.com/wpfr`; the status code is `200` and content-type is `text/html; charset=UTF-8` in C:\laragon\www\gourmandim\wp-includes\class-simplepie.php on line 1728
