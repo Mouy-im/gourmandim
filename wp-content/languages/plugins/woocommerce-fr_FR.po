@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-27 20:54+0100\n"
+"PO-Revision-Date: 2021-04-02 20:53+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -29149,7 +29149,7 @@ msgstr "Taxes"
 #: includes/gateways/cod/class-wc-gateway-cod.php:83
 #: includes/gateways/paypal/includes/settings-paypal.php:25
 msgid "Description"
-msgstr "Description"
+msgstr "Informations complémentaires"
 
 #: includes/admin/reports/class-wc-report-downloads.php:88
 #: includes/admin/reports/class-wc-report-downloads.php:222
