@@ -11,6 +11,20 @@ License: GNU General Public License v2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
+
+/*enlever surlignage des liens dû à bootstrap*/
+
+a {
+    text-decoration: none!important;
+}
+
+
+/*titre fiche produit*/
+
+h1.product_title.entry-title {
+    line-height: 1.8em;
+}
+
 .products.columns-4 {
     display: flex;
     justify-content: space-between;
@@ -18,6 +32,53 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 .products.columns-4 li {
     margin-right: 0px!important;
+}
+
+
+/************************SHOP PAGE**************************/
+
+
+/*header page archive-product*/
+
+.archive.post-type-archive.post-type-archive-product .banniere {
+    background: url("banniere.jpg") no-repeat center;
+    height: 700px;
+    background-size: cover;
+}
+
+.archive #main-content .container {
+    padding-top: 50px!important;
+}
+
+.products.columns-3 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.products.columns-3 li {
+    width: 30%;
+    box-shadow: 1px 1px 10px 1px lightgrey;
+    padding: 20px!important;
+    border-radius: 15px;
+}
+
+@media (min-width: 768px) and (max-width: 1022px) {
+    .woocommerce-page ul.products li.product:nth-child(n) {
+        margin: 5% 2%!important;
+        width: 45%!important;
+    }
+}
+
+@media (max-width: 768px) {
+    .woocommerce-page ul.products li.product:nth-child(n) {
+        margin: 10% auto!important;
+        width: 75%!important;
+    }
+}
+
+.archive.post-type-archive.post-type-archive-product ul.products li.product:nth-child(4n) {
+    margin-right: 3.8%!important;
 }
 
 
@@ -38,7 +99,7 @@ li.product .woocommerce-Price-amount.amount {
     height: 100px;
     padding-top: 35px;
     border-radius: 100px;
-    right: -40px;
+    right: -20px;
     top: -40px;
     box-shadow: 1px 2px 10px 1px grey;
     text-align: center;
@@ -53,6 +114,7 @@ li.product .et_shop_image {
 li.product .woocommerce-loop-product__title {
     font-size: 18px!important;
     font-weight: bold;
+    line-height: 1.8em;
 }
 
 li.product .button {
@@ -71,4 +133,102 @@ li.product .button {
     box-shadow: 1px 1px 10px 1px lightgrey;
     border-radius: 15px;
     margin: 20px 0px;
+}
+
+
+/*banniere cookies*/
+
+.archive.term-cookies .banniere {
+    background: linear-gradient( rgba(255, 255, 255, 0.55), rgba(0, 0, 0, 0.45)), url("banniere-cookies.jpg") no-repeat center;
+    height: 400px;
+    background-size: cover;
+}
+
+
+/*banniere mochis*/
+
+.archive.term-mochis .banniere {
+    background: url("banniere-mochis.jpg") no-repeat center;
+    height: 400px;
+    background-size: cover;
+}
+
+
+/*home_category*/
+
+#home_category .et_pb_promo_description {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#home_category .et_pb_column.et_pb_css_mix_blend_mode_passthrough {
+    transition: 0.5s ease-in;
+}
+
+#home_category .et_pb_column.et_pb_css_mix_blend_mode_passthrough:hover {
+    filter: grayscale(1)!important;
+}
+
+
+/*page mon compte*/
+
+nav.woocommerce-MyAccount-navigation,
+div.woocommerce-MyAccount-content {
+    width: 100%!important;
+}
+
+nav.woocommerce-MyAccount-navigation ul {
+    display: flex;
+    justify-content: center;
+    padding: 20px!important;
+    margin-bottom: 50px;
+    background-color: #11acc0;
+}
+
+nav.woocommerce-MyAccount-navigation ul li {
+    list-style: none;
+    border-right: 2px solid #fff;
+    padding: 0px 20px;
+}
+
+nav.woocommerce-MyAccount-navigation ul li:last-child {
+    border-right: none;
+}
+
+nav.woocommerce-MyAccount-navigation ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+@media (max-width:980px) {
+    nav.woocommerce-MyAccount-navigation ul {
+        flex-direction: column;
+        text-align: center;
+    }
+    nav.woocommerce-MyAccount-navigation ul li {
+        border-right: none;
+        padding: 0px;
+    }
+}
+
+
+/*FOOTER Newsletter*/
+
+.fwidget.et_pb_widget.widget_text {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+
+/*formulaire de contact*/
+
+.et_pb_contact_field_options_title {
+    display: none;
+}
+
+.woocommerce-cart #pickup_date {
+    display: none;
 }
